@@ -42,3 +42,11 @@ function reverseStr(strToReverse){
   const reversedStr = splitedStr.reverse();
   return reversedStr.join('');
 }
+
+/*
+* More info..
+? https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+? https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+? https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
+? https://regex-generator.olafneumann.org/
+*/
