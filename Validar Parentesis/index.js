@@ -1,11 +1,11 @@
 /*
-# PROBLEMA 1: Suma de números pares
+# PROBLEMA 5: Validación de apertura y cierre de caracteres
   Escribe una función llamada 'validarParentesis' que reciban una cadena que contiene
   solo los caracteres '(', ')', '{', '}', '[', ']', y determine si la cadena de paréntesis
   es válida. Una cadena de paréntesis es válida si los parentesis están cerrados
   en el orden correcto.
 
-# SOLUCIÓN 1
+# SOLUCIÓN
 */
 function validarParentesis(str){
   let openChars = ['(', '{', '['];
@@ -52,4 +52,5 @@ console.log(validarParentesis("(]"));     //false
   ? https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes
   ? https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
   ? https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/
+  ? https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 */
