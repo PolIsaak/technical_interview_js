@@ -4,28 +4,36 @@
   y devuelva un nuevo array que contenga solo los números que aparecen más de una vez
   en el array original. El nuevo array de duplicados no debe contener duplicados.
 
-# SOLUCIÓN
+# PROBLEMA 9: Eliminar Duplicados
+  Escribe una función llamada 'eliminarDuplicados' que reciba un array de números
+  y devuelva un nuevo array que contenga solo los números únicos, eliminando los duplicados
+
+# SOLUCIÓN 1
+- Usando arreglos unidimensionales
 */
 const arr = [1, 2, 3, 4, 4, 4, 5, 6, 6, 7];
-let uniqueValues = [];
-let duplicatedValues = [];
+const arr2 = [10, 20, 30, 40, 50];
 
-function encontrarDuplicados(arr){
+function dividirUnicosYDuplicados(arr, returnUniques = false){
+  let uniqueValues = [];
+  let duplicatedValues = [];
   // + RAZONAMIENTO - Uso de pilas para la separación de valores únicos y duplicados
   for (let i = 0; i < arr.length; i++) {
     if (!uniqueValues.includes(arr[i])) {
       uniqueValues.push(arr[i])
-    }else if(duplicatedValues.includes(arr[i])){
-      continue;
-    }else{
+    }else if(!duplicatedValues.includes(arr[i])){
       duplicatedValues.push(arr[i]);
     }
   }
-  return duplicatedValues;
+
+  return returnUniques ? uniqueValues : duplicatedValues;
 }
 
-console.log(encontrarDuplicados(arr));
+console.log("únicos: ", dividirUnicosYDuplicados(arr, true));
+console.log("duplicados: ", dividirUnicosYDuplicados(arr, false));
 
+console.log("duplicados: ", dividirUnicosYDuplicados(arr2, true));
+console.log("duplicados: ", dividirUnicosYDuplicados(arr2, false));
 /*
   + RAZONAMIENTO - Uso de pilas para la separación de valores únicos y duplicados
   - Preguntamos si el valor actual esta incluido en el stack de valores únicos.
@@ -34,6 +42,10 @@ console.log(encontrarDuplicados(arr));
   - Preguntamos si esta valor duplicado ya se encuentra en el stack de duplicados.
   - Si no lo esta, lo agregamos al stack, de lo contrario continuamos la iteración.
 
+  + NOTA:
+  - Funciones refactorizadas en base a lo que se pedia en ambas problematicas
+  
   # MAS INFO...
   ? https://matiashernandez.dev/blog/post/4-formas-de-eliminar-elementos-duplicados-en-un-arreglo-con-javascript
+  ? https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
 */
