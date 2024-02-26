@@ -31,3 +31,10 @@ El archivo index.html en la raíz del repositorio se puede usar para ejecutar y 
 9. [Sumar Matrices](https://github.com/PolIsaak/technical_interview_js/tree/main/Suma%20Matrices)
 10. [Generador de Contraseñas](https://github.com/PolIsaak/technical_interview_js/tree/main/Generador%20Passwords)
 11. [Buscar Palabras en Matriz]() `Proximamente...`
+
+## ⏭ Actualización de ejercicios
+Proximas actualizaciones de ejercicios e implementación de variaciones de funcionalidad.
+
+- **Suma Matrices:** Se añadiran más operaciones con matrices (resta, multiplicación, división).
+- **Validación de Parentesis:** Se añadira la validación de más caracteres de apertura y cierre ('', "", <>).
+- **Generador de contraseñas:** Se añadira la selección de caracteres que que deberá contener el contraseña
