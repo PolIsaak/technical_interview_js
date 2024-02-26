@@ -1,5 +1,5 @@
 /*
-  # PROBLEMA ##: Titlo de Problema
+  # PROBLEMA ##: Titulo de Problema
     Descripción del problema
 
   # SOLUCIÓN ##
@@ -8,6 +8,9 @@
   + RAZONAMIENTO - Titulo de Razonamiento
   - Paso de razonamiento
 
+  # NOTAS
+  -
+  
   # MAS INFORMACIÓN...
   ? Enlace
 */

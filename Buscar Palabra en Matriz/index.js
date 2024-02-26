@@ -87,7 +87,4 @@ console.log(buscarPalabra(matrizCaracteres, "POLAR"));
   - RIEL
   - RES
   - INDIA
-
-  # MAS INFORMACIÓN...
-  ? Enlace
 */
