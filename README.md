@@ -33,9 +33,13 @@ El archivo index.html en la raíz del repositorio se puede usar para ejecutar y 
 11. [Buscar Palabras en Matriz](https://github.com/PolIsaak/technical_interview_js/tree/main/Buscar%20Palabra%20en%20Matriz)
 12. [Maximo Producto de una Matriz](https://github.com/PolIsaak/technical_interview_js/tree/main/Maximo%20Producto%20de%20Matriz)
 
+## Contribuidores
+- [Paul Isaac Torres Enriquez](https://github.com/PolIsaak)
+- [Julio Cesar Rivera Yanes](https://github.com/JulioRivera01)
+
 ## ⏭ Actualización de ejercicios
 Proximas actualizaciones de ejercicios e implementación de variaciones de funcionalidad.
 
 - **Suma Matrices:** Se añadiran más operaciones con matrices (resta, multiplicación, división).
 - **Validación de Parentesis:** Se añadira la validación de más caracteres de apertura y cierre ('', "", <>).
-- **Generador de contraseñas:** Se añadira la selección de caracteres que que deberá contener el contraseña
+- **Generador de contraseñas:** Se añadira la selección de caracteres que que deberá contener el contraseña.
