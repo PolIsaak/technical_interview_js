@@ -30,7 +30,8 @@ El archivo index.html en la raíz del repositorio se puede usar para ejecutar y 
 8. [Dividir únicos y Duplicados](https://github.com/PolIsaak/technical_interview_js/tree/main/Encontrar%20Duplicados)
 9. [Sumar Matrices](https://github.com/PolIsaak/technical_interview_js/tree/main/Suma%20Matrices)
 10. [Generador de Contraseñas](https://github.com/PolIsaak/technical_interview_js/tree/main/Generador%20Passwords)
-11. [Buscar Palabras en Matriz]() `Proximamente...`
+11. [Buscar Palabras en Matriz](https://github.com/PolIsaak/technical_interview_js/tree/main/Buscar%20Palabra%20en%20Matriz)
+12. [Maximo Producto de una Matriz](https://github.com/PolIsaak/technical_interview_js/tree/main/Maximo%20Producto%20de%20Matriz)
 
 ## ⏭ Actualización de ejercicios
 Proximas actualizaciones de ejercicios e implementación de variaciones de funcionalidad.
