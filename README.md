@@ -37,11 +37,4 @@ El archivo index.html en la raíz del repositorio se puede usar para ejecutar y 
 
 ## Contribuidores
 - [Paul Isaac Torres Enriquez](https://github.com/PolIsaak)
-- [Julio Cesar Rivera Yanes](https://github.com/JulioRivera01)
-
-## ⏭ Actualización de ejercicios
-Proximas actualizaciones de ejercicios e implementación de variaciones de funcionalidad.
-
-- **Suma Matrices:** Se añadiran más operaciones con matrices (resta, multiplicación, división).
-- **Validación de Parentesis:** Se añadira la validación de más caracteres de apertura y cierre ('', "", <>).
-- **Generador de contraseñas:** Se añadira la selección de caracteres que que deberá contener el contraseña.
+- [Julio Cesar Rivera Yanes](https://github.com/IngJulioRivera)
