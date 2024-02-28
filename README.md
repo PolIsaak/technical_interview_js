@@ -32,6 +32,8 @@ El archivo index.html en la raíz del repositorio se puede usar para ejecutar y 
 10. [Generador de Contraseñas](https://github.com/PolIsaak/technical_interview_js/tree/main/Generador%20Passwords)
 11. [Buscar Palabras en Matriz](https://github.com/PolIsaak/technical_interview_js/tree/main/Buscar%20Palabra%20en%20Matriz)
 12. [Maximo Producto de una Matriz](https://github.com/PolIsaak/technical_interview_js/tree/main/Maximo%20Producto%20de%20Matriz)
+13. [Fibonacci](https://github.com/PolIsaak/technical_interview_js/tree/main/Fibonacci)
+14. [Validar Contraseña](https://github.com/PolIsaak/technical_interview_js/tree/main/Validar%20Contrase%C3%B1a)
 
 ## Contribuidores
 - [Paul Isaac Torres Enriquez](https://github.com/PolIsaak)
