@@ -26,12 +26,3 @@ Crea una función llamada palabraMasLarga que tome una cadena como parámetro y 
 
 ## Ejercicio: Capitalizar Palabras
 Escribe una función llamada capitalizarPalabras que tome una cadena como parámetro y devuelva la cadena con la primera letra de cada palabra en mayúscula. Puedes asumir que las palabras están separadas por espacios y que la cadena no contendrá puntuación.
-
-## Ejercicio: Validar Contraseña
-Crea una función llamada validarContraseña que tome una cadena como argumento y verifique si cumple con los siguientes criterios:
- - Al menos 8 caracteres de longitud.
- - Contiene al menos una letra mayúscula y una letra minúscula.
- - Contiene al menos un número.
- - La función debe devolver true si la contraseña es válida y false si no lo es.
-
-Ejemplo de uso: validarContraseña("Abcd1234") debería devolver true.
